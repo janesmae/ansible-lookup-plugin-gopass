@@ -4,7 +4,7 @@ A plugin to make secrets from gopass available within the ansible playbooks.
 
 ## Prerequisites
 
-gopass installed and working on the system
+[gopass](https://www.gopass.pw) installed and working on the system
 
 ## Examples
 
